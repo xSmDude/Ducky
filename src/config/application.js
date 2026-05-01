@@ -84,7 +84,7 @@ const appConfig = {
 
   features: {
     
-    economy: true,                  
+                     
     leveling: true,                 
     moderation: true,               
     logging: true,                  
@@ -93,7 +93,7 @@ const appConfig = {
     
     tickets: true,                  
     giveaways: true,                
-    birthday: true,                 
+                    
     counter: true,                  
 
     
